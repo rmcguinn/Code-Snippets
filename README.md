@@ -25,3 +25,8 @@ ___
 https://codepen.io/rmcguinn/pen/JpVwBp
 
 ___
+
+### CSS Fog Animation
+https://codepen.io/rmcguinn/pen/NoqvYR
+
+___
